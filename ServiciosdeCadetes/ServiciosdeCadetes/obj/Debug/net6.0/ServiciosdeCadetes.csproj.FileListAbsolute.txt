@@ -1,0 +1,15 @@
+C:\Users\emman\source\repos\ServiciosdeCadetes\ServiciosdeCadetes\bin\Debug\net6.0\ServiciosdeCadetes.exe
+C:\Users\emman\source\repos\ServiciosdeCadetes\ServiciosdeCadetes\bin\Debug\net6.0\ServiciosdeCadetes.deps.json
+C:\Users\emman\source\repos\ServiciosdeCadetes\ServiciosdeCadetes\bin\Debug\net6.0\ServiciosdeCadetes.runtimeconfig.json
+C:\Users\emman\source\repos\ServiciosdeCadetes\ServiciosdeCadetes\bin\Debug\net6.0\ServiciosdeCadetes.dll
+C:\Users\emman\source\repos\ServiciosdeCadetes\ServiciosdeCadetes\bin\Debug\net6.0\ServiciosdeCadetes.pdb
+C:\Users\emman\source\repos\ServiciosdeCadetes\ServiciosdeCadetes\obj\Debug\net6.0\ServiciosdeCadetes.csproj.AssemblyReference.cache
+C:\Users\emman\source\repos\ServiciosdeCadetes\ServiciosdeCadetes\obj\Debug\net6.0\ServiciosdeCadetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\source\repos\ServiciosdeCadetes\ServiciosdeCadetes\obj\Debug\net6.0\ServiciosdeCadetes.AssemblyInfoInputs.cache
+C:\Users\emman\source\repos\ServiciosdeCadetes\ServiciosdeCadetes\obj\Debug\net6.0\ServiciosdeCadetes.AssemblyInfo.cs
+C:\Users\emman\source\repos\ServiciosdeCadetes\ServiciosdeCadetes\obj\Debug\net6.0\ServiciosdeCadetes.csproj.CoreCompileInputs.cache
+C:\Users\emman\source\repos\ServiciosdeCadetes\ServiciosdeCadetes\obj\Debug\net6.0\ServiciosdeCadetes.dll
+C:\Users\emman\source\repos\ServiciosdeCadetes\ServiciosdeCadetes\obj\Debug\net6.0\refint\ServiciosdeCadetes.dll
+C:\Users\emman\source\repos\ServiciosdeCadetes\ServiciosdeCadetes\obj\Debug\net6.0\ServiciosdeCadetes.pdb
+C:\Users\emman\source\repos\ServiciosdeCadetes\ServiciosdeCadetes\obj\Debug\net6.0\ServiciosdeCadetes.genruntimeconfig.cache
+C:\Users\emman\source\repos\ServiciosdeCadetes\ServiciosdeCadetes\obj\Debug\net6.0\ref\ServiciosdeCadetes.dll
